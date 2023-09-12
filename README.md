@@ -11,7 +11,9 @@
 
 - 👯 I’m looking to collaborate on **Web and Mobile development**
 
-- 📫 How to reach me **fikre.anteneh01@gmail.com**
+- 📫 E-mail **fikre.anteneh01@gmail.com**
+
+- 📫 Phone **+251940229161**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
