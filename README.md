@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fikreanteneh" alt="fikreanteneh" /></a> </p>
 
-- 🔭 I’m currently working on **School and Personal Project**
+- 🔭 I’m currently student and working on **School and Personal Project**
 
 - 🌱 I’m currently learning **C#, .Net, Machine leraning, Backend Technologies**
 
-- 👯 I’m looking to collaborate on **Web and Mobile development**
+- 👯 I’m looking to collaborate on **Web, Mobile and Backend development**
 
 - 📫 E-mail **fikre.anteneh01@gmail.com**
 
