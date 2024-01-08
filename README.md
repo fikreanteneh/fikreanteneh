@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently student and working on **School and Personal Project**
 
-- 🌱 I’m currently learning **C#, .Net, Machine leraning, Backend Technologies**
-
 - 👯 I’m looking to collaborate on **Web, Mobile and Backend development**
 
 - 📫 E-mail **fikre.anteneh01@gmail.com**
