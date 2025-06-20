@@ -5,14 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fikreanteneh" alt="fikreanteneh" /></a> </p>
 
-- 🔭 I’m currently student and working on **School and Personal Project**
-
-- 👯 I’m looking to collaborate on **Web, Mobile and Backend development**
-
-- 📫 E-mail **fikre.anteneh01@gmail.com**
-
-- 📫 Phone **+251940229161**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fikre_anteneh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fikre_anteneh" height="30" width="40" /></a>
